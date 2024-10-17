@@ -1,4 +1,4 @@
-# Event Trigger Timer (ETT)
+# Event Trigger Timer
 
 **Event Trigger Timer (ETT)** is a LabVIEW-based application designed to manage and visualize the timing of various triggered events. It provides users with control over event triggers, managing durations, and visualizing results in real-time through a graphical interface.
 
@@ -49,10 +49,18 @@
 - When the user presses "Stop," the timer halts, and the visual feedback changes to reflect the stop.
 - Pressing "Reset" clears the event and allows it to be started again.
 
-## Requirements:
-- **Software**: LabVIEW.
-
 ## Troubleshooting:
 - Ensure that the correct buttons are being pressed for the desired actions (start, stop, reset).
 - If timers do not behave as expected, verify that the time intervals are correctly set and the necessary event conditions are met.
+
+## Code:
+![image](https://github.com/user-attachments/assets/f3eea2bc-cdfc-43f2-bc34-b2cca41ff59d)
+![image](https://github.com/user-attachments/assets/d6c7b083-2997-43c1-b47c-3dbc02055ed5)
+![image](https://github.com/user-attachments/assets/2ad0247c-dbac-45b2-8a33-89d1910fe148)
+![image](https://github.com/user-attachments/assets/e05d093d-2fb4-4170-a6fb-d5b386c64ffc)
+![image](https://github.com/user-attachments/assets/88c94a98-8a10-4086-a558-5048fca6161a)
+![image](https://github.com/user-attachments/assets/5ca04a75-308b-4496-ac7b-c62b49059b59)
+
+
+
 

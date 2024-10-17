@@ -61,6 +61,6 @@
 ![image](https://github.com/user-attachments/assets/88c94a98-8a10-4086-a558-5048fca6161a)
 ![image](https://github.com/user-attachments/assets/5ca04a75-308b-4496-ac7b-c62b49059b59)
 
-
-
-
+## Program view:
+![image](https://github.com/user-attachments/assets/2e22b099-9d41-4480-96e5-6f92df198ba8)
+![image](https://github.com/user-attachments/assets/a34ea4de-bb32-4063-950f-9985cae45c08)

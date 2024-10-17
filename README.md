@@ -63,4 +63,5 @@
 
 ## Program view:
 ![image](https://github.com/user-attachments/assets/2e22b099-9d41-4480-96e5-6f92df198ba8)
-![image](https://github.com/user-attachments/assets/a34ea4de-bb32-4063-950f-9985cae45c08)
+![image](https://github.com/user-attachments/assets/cb0ed240-6a61-4ce6-bbe2-becce95ba484)
+
